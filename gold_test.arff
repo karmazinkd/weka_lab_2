@@ -1,0 +1,11 @@
+@relation gold_price
+
+@attribute headline string
+@attribute price {up,down}
+
+@data
+
+"Next year we will hit new highs as gold demand rises",up
+"Price falls as we sign a peace treaty - said Thomas Jefferson",down
+
+
